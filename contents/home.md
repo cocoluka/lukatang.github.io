@@ -1,20 +1,16 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+<!-- [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX) -->
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
-
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+I am Zhenchao. I received my bachelor’s degree from Huazhong University of Science and Technology. I am currently pursuing a Ph.D. at Sun Yat-sen University under the supervision of Professor Calvin Yu-Chian Chen. My research interests lie in AI for Science. At present, I am conducting related research at Tencent AI Lab under the supervision of principal scientist JIANHUA-YAO.
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Sun Yat-sen University**, Ph.D. (Sep. 2021 $-$ present)  
+• 1st Young Elite Scientists Sponsorship Program by CAST, PhD Student Plan, supporting organization: Chinese Association for Artificial Intelligence (CAAI).
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Huazhong University of Science and Technology**, B.Eng. (Sep. 2017 $-$ Jun. 2021)  
+• GPA: 3.82/4.0 
 
 #### Research Interests  
-XX, XX, XX, XX.
+My research interests center around AI for science, including biomedical data integration, drug discovery, and protein design. In the long term, I am committed to building an AI Virtual Cell (AIVC). AIVC establishes a universal representation that includes species, modalities, and complex contexts (such as perturbations). This enables us to validate new scientific hypotheses across multiple resolutions, from molecules to tissues, while computational simulations accelerate costly biological experiments.
+
+#### Email  
+<code>tangzhch7@mail2.sysu.edu.cn</code>  
